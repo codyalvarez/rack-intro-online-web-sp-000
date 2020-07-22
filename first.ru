@@ -5,4 +5,4 @@ my_server = Proc.new do
   ['<em>Hello</em>']]
 end
 
-run MyServer.new
+run my_server
