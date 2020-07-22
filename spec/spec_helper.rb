@@ -2,7 +2,7 @@
 require 'rack'
 require 'rack/test'
 
-def app() 
+def app()
   MyServer.new
 end
 
